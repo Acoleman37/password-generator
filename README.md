@@ -15,3 +15,7 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+
+live url: https://acoleman37.github.io/password-generator/
+
+<img width="1680" alt="Screen Shot 2021-11-07 at 4 26 20 PM" src="https://user-images.githubusercontent.com/91629574/140667903-6e47bd42-5c4d-4cc6-a60c-eb2fc67cdae7.png">
